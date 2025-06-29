@@ -24,6 +24,8 @@ By default, this action will automatically run every day
 You can modify it in `.github/workflows/run.yml`
 
 # Content
+[2025-06-29](data/2025-06-29.md)
+
 [2025-06-28](data/2025-06-28.md)
 
 [2025-06-27](data/2025-06-27.md)
